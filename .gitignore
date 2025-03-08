@@ -1,0 +1,11 @@
+# Ignore config.json
+config.json
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore all .env files (for environment variables)
+.env
